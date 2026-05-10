@@ -1,0 +1,12 @@
+
+
+
+
+post http://localhost:5270/users/13
+Content-Type: application/json
+
+{
+
+    "id":1,
+    "name":"Aftab"
+}
